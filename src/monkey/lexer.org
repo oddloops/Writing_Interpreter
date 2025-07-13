@@ -1,0 +1,3 @@
+*Lexer
+** Lexcial Analysis
+Also known as "lexing", it is the transformation from source code to tokens.
