@@ -1,0 +1,2 @@
+* What is this?
+A repo for working through Thorsten Ball's book, "Writing an Interpreter in Go"
