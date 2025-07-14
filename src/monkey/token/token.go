@@ -1,16 +1,6 @@
 package token
 
 /*
-	Token data structure definition
-*/
-type TokenType string
-
-type Token struct {
-	Type    TokenType
-	Literal string
-}
-
-/*
 	Token type constants
 */
 const (
@@ -38,3 +28,13 @@ const (
 	FUNCTION = "FUNCTION"
 	LET      = "LET"
 )
+
+/*
+	Token data structure definition
+*/
+type TokenType string
+
+type Token struct {
+	Type    TokenType
+	Literal string
+}
