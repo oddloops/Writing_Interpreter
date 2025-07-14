@@ -2,3 +2,5 @@
 ** Lexcial Analysis
 Also known as "lexing", it is the transformation from source code to tokens.
 
+Run test using go test .\lexer\ from monkey directory
+go init mod monkey in monkey directory first
