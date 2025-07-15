@@ -4,3 +4,7 @@ Also known as "lexing", it is the transformation from source code to tokens.
 
 Run test using go test .\lexer\ from monkey directory
 go init mod monkey in monkey directory first
+
+TODO
+[] Support Unicode and UTF-8. Changes to l.ch from byte ot rune and how characters are read
+[] Support floats, numbers in hex notation, octal notation, etc.
