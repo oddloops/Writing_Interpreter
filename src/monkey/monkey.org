@@ -1,4 +1,2 @@
 * What is this?
 A repo for working through Thorsten Ball's book, "Writing an Interpreter in Go"
-TODO
-[] Support Unicode and UTF-8. Changes to l.ch from byte ot rune and how characters are read
