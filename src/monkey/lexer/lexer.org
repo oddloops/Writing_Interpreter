@@ -8,3 +8,4 @@ go init mod monkey in monkey directory first
 TODO
 [] Support Unicode and UTF-8. Changes to l.ch from byte ot rune and how characters are read
 [] Support floats, numbers in hex notation, octal notation, etc.
+[] Create a method, makeTwoCharToken, to abstract support for more two (or more) character tokens
