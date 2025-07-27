@@ -15,6 +15,11 @@ From the "monkey" directory, run test using the following command:
 #+begin_src shell
 go test .\lexer\
 #+end_src
+To run the Go Lang main file
+From the "monkey" directory, run test using the following command:
+#+begin_src shell
+go run main.go
+#+end_src
 
 *** TODO Expand support
 - [ ] Support Unicode and UTF-8. Changes to l.ch from byte or rune and how characters are read
