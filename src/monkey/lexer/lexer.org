@@ -3,11 +3,11 @@
 Also known as "lexing", it is the transformation from source code to tokens.
 
 *** _To run_
-1. Navigate the the desired directory ("monkey" in this instance).
+1) Navigate the the desired directory ("monkey" in this instance).
 #+begin_src shell
 go init mod monkey
 #+end_src
-2. From the "monkey" directory, run test using the following command:
+2) From the "monkey" directory, run test using the following command:
 #+begin_src shell
 go test .\lexer\
 #+end_src
